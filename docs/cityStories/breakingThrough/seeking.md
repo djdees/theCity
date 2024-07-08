@@ -60,7 +60,7 @@ Recognizing this was important, he stood, setting aside his coffee and plate of 
 
 The light had began to fade, when he moved again. He moved slowly into a standing position and reached over his now cold cup of coffee. He reached across the table to the pile of books he'd pulled from his bag. He reached for the English dictionary and began to flip pages. After a moment he stopped, his eyes refocused on what was in his hands. In the pages of the dictionary he saw: 
 
-<i>noun: martyr; plural noun: martyrs
+*noun: martyr; plural noun: martyrs
  1. a person who is killed because of their religious or other beliefs. "saints, martyrs, and witnesses to the faith"
  2. a person who displays or exaggerates their discomfort or distress in order to obtain sympathy or admiration. "she wanted to play the martyr"
  3. a constant sufferer from (an ailment). "I'm a martyr to migraines!"
@@ -70,7 +70,7 @@ verb: martyr; 3rd person present: martyrs; past tense: martyred; past participle
  2. cause great pain or distress to. "there was no need to martyr themselves again"
  
 origin: 
- 1. Old English martir, via ecclesiastical Latin from Greek martur ‘witness’ (in Christian use, ‘martyr’).</i>
+ 1. Old English martir, via ecclesiastical Latin from Greek martur ‘witness’ (in Christian use, ‘martyr’).*
 
 "So," he thought, "I'm not looking for a dead person, I doubt I'm looking for a whiner. So, either somebody suffering from something or, maybe a witness. A witness to what, though?"
 

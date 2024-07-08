@@ -36,7 +36,7 @@ said Judas.
 places. We're in the battlefield realm." Vincent stated, "There's
 something that connects all those, but I can't think of what."
 
-  <Judas starts to panic - need to describe that.>
+  &lt;Judas starts to panic - need to describe that.&gt;
 
 A whistling noise begins to get louder and louder. Vincent grabs Judas
 and pulls him in to a deep mud-filled ditch in front of a thick
