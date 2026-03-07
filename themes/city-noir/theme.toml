@@ -1,0 +1,6 @@
+name = "City Noir"
+license = "MIT"
+licenselink = ""
+description = "A gothic theme for The City, a World of Darkness chronicle."
+homepage = ""
+min_version = "0.110.0"

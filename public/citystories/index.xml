@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>City Confidential on The City</title>
+    <link>http://localhost:1313/citystories/</link>
+    <description>Recent content in City Confidential on The City</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Aug 2017 13:36:32 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/citystories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City Confidential</title>
+      <link>http://localhost:1313/citystories/base_stories/</link>
+      <pubDate>Thu, 17 Aug 2017 13:36:32 -0500</pubDate>
+      <guid>http://localhost:1313/citystories/base_stories/</guid>
+      <description>&lt;p&gt;The first rule of The City is that you don&amp;rsquo;t talk about The City.&lt;/p&gt;&#xA;&lt;p&gt;That being said, here&amp;rsquo;s a number of stories from The City.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

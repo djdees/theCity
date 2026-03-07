@@ -1,0 +1,26 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "The City"
+theme: "city-noir"
+
+# Sections
+contentDir: "content"
+publishDir: "public"
+
+menus:
+  main:
+    - name: "White Pages"
+      url: "/whitePages/"
+      weight: 1
+    - name: "Yellow Pages"
+      url: "/yellowPages/"
+      weight: 2
+    - name: "City Confidential"
+      url: "/cityStories/"
+      weight: 3
+    - name: "Ruminations"
+      url: "/blog/"
+      weight: 4
+    - name: "The Atlas"
+      url: "/atlas/"
+      weight: 5

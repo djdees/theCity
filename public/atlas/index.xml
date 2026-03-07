@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Atlas on The City</title>
+    <link>http://localhost:1313/atlas/</link>
+    <description>Recent content in The Atlas on The City</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/atlas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tangle</title>
+      <link>http://localhost:1313/atlas/thetangle/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/atlas/thetangle/</guid>
+      <description>&lt;p&gt;Nobody realised what Captain Green really did. They saw a couple square blocks become wild, fed by Wyld Magic and insanity. That wasn&amp;rsquo;t true, it was largner, much larger. The small space seen became a larger space of several square block, each holding many times what it would have held for physical space. The blocks that vanished were swallowed up by the plants that filled it, tens of years of nature taking over compressed into a short perioud. The sleepers, well they diddn&amp;rsquo;t realize a thing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keziah Mason Cistern</title>
+      <link>http://localhost:1313/atlas/kmcistern/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/atlas/kmcistern/</guid>
+      <description>&lt;p&gt;A former drinking water reservoir built in the early 1900s. Lauded at the time for the innovated design of catch basins, water capture, and stunning architecual feature the construction ran well over budget and schedule. Designed by the noted architect Antonio Ricci as one of his first projects after leaving the tutalage of Neils Thorp. Rather than the usual rectangle with pillar construction, the straight lines with obtuse angles were considered cutting edge at flow managment at the time. The ornate pillars of the Greek Revivial Style and the ornamentation give it an odd feeling when the water is low enough that people can access it. Awakened or aware people often report being uncomfortable and attribute it to the cool dampness of the cistern.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Drains</title>
+      <link>http://localhost:1313/atlas/thedrains/</link>
+      <pubDate>Thu, 17 Aug 2017 14:18:50 -0500</pubDate>
+      <guid>http://localhost:1313/atlas/thedrains/</guid>
+      <description>&lt;p&gt;Another test.&lt;/p&gt;&#xA;&lt;p&gt;On a real site, this would detail the Drains, a massive confluence of where big chunks of the storm sewer empty out before the water hits the bay.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Docks</title>
+      <link>http://localhost:1313/atlas/thedocks/</link>
+      <pubDate>Thu, 17 Aug 2017 13:46:23 -0500</pubDate>
+      <guid>http://localhost:1313/atlas/thedocks/</guid>
+      <description>&lt;p&gt;Another test posts, testing tags added to an archetype.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
