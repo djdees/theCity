@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barrabi on The City</title>
+    <link>http://localhost:1313/tags/barrabi/</link>
+    <description>Recent content in Barrabi on The City</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Mar 2026 18:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/barrabi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antonio Ricci</title>
+      <link>http://localhost:1313/whitepages/antonio_ricci/</link>
+      <pubDate>Sat, 07 Mar 2026 18:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/whitepages/antonio_ricci/</guid>
+      <description>&lt;p&gt;blah blah blah&lt;/p&gt;&#xA;&lt;details class=&#34;st-info&#34;&gt;&#xA;    &lt;summary&gt;Storyteller Info&lt;/summary&gt;&#xA;    &lt;div&gt;Your hidden ST info here, &lt;strong&gt;markdown works too&lt;/strong&gt;.&lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;details class=&#34;inspiration&#34;&gt;&#xA;    &lt;summary&gt;Inspiration / Source&lt;/summary&gt;&#xA;    &lt;div&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://mage.gearsonline.net/anders/factions/nephandi/architecture.html&#34;&gt;The Architecture Of Doom&lt;/a&gt; This is the 2.0 version, expanded beyond what I&amp;rsquo;d originally worked with.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wealthness42.substack.com/p/the-labyrinth-at-hawara-what-the?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=1i7lok&amp;amp;triedRedirect=true&#34;&gt;The Labyrinth at Hawara: What the Scans Found and Why Egypt Won’t Let Anyone Dig&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

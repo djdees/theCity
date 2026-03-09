@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sept of the Blue Box on The City</title>
+    <link>http://localhost:1313/tags/sept-of-the-blue-box/</link>
+    <description>Recent content in Sept of the Blue Box on The City</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 18:46:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sept-of-the-blue-box/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judas Maldito</title>
+      <link>http://localhost:1313/whitepages/judas_maldito/</link>
+      <pubDate>Sun, 08 Mar 2026 18:46:00 -0500</pubDate>
+      <guid>http://localhost:1313/whitepages/judas_maldito/</guid>
+      <description>&lt;p&gt;The universe&amp;rsquo;s favorite chew toy. By design.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

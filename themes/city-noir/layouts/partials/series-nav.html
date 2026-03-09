@@ -1,0 +1,24 @@
+<nav class="series-nav">
+  <div class="series-nav-back">
+    <a href="{{ .Parent.RelPermalink }}">&#8617; Back to {{ .Parent.Title }}</a>
+  </div>
+  <div class="series-nav-prevnext">
+    {{ if .PrevInSection }}
+    <a class="series-nav-prev" href="{{ .PrevInSection.RelPermalink }}">
+      <span class="nav-label">&#8592; Previous</span>
+      <span class="nav-title">{{ .PrevInSection.Title }}</span>
+    </a>
+    {{ else }}
+    <span class="series-nav-prev series-nav-disabled"></span>
+    {{ end }}
+
+    {{ if .NextInSection }}
+    <a class="series-nav-next" href="{{ .NextInSection.RelPermalink }}">
+      <span class="nav-label">Next &#8594;</span>
+      <span class="nav-title">{{ .NextInSection.Title }}</span>
+    </a>
+    {{ else }}
+    <span class="series-nav-next series-nav-disabled"></span>
+    {{ end }}
+  </div>
+</nav>

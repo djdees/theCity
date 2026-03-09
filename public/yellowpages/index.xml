@@ -6,8 +6,15 @@
     <description>Recent content in The Yellow Pages on The City</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 14:11:05 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 19:00:13 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/yellowpages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sanctum of Hidden Scars</title>
+      <link>http://localhost:1313/yellowpages/sanctumofhiddenscars/</link>
+      <pubDate>Sun, 08 Mar 2026 19:00:13 -0500</pubDate>
+      <guid>http://localhost:1313/yellowpages/sanctumofhiddenscars/</guid>
+      <description>&lt;p&gt;To be expanded on&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Shermer High School</title>
       <link>http://localhost:1313/yellowpages/shermerhighschool/</link>

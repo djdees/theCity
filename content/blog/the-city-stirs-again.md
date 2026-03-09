@@ -8,8 +8,8 @@ The notebooks have been gathering dust for years now. Somewhere between the turn
 
 But the pages are still here. The stories are still here.
 
-What follows in these archives is an attempt to reconstruct a place that never existed and the people who never lived there — the chronicle of a city that ran on secrets, old blood, and the particular madness that descends when you spend too many Fridays pretending the world is stranger and darker than it actually is.
+What follows in these archives is an attempt to reconstruct a place that never existed and the people who never lived there — the chronicle of a city that ran on secrets, old blood, and the particular madness that descends when you spend too many Fridays pretending the world is stranger and darker than it actually is. 
 
 It was stranger. It was darker.
 
-Welcome back to the City.
+{{< center >}}Welcome back to the City, watch the shadows.{{< /center >}}

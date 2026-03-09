@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article class="page-content">
+  <h1 class="page-title">{{ .Title }}</h1>
+  <div class="page-body">
+    {{ .Content }}
+  </div>
+  {{ if strings.Contains .RelPermalink "/series/" }}
+    {{ partial "series-nav.html" . }}
+  {{ end }}
+</article>
+{{ end }}

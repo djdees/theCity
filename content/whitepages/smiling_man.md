@@ -1,7 +1,7 @@
 ---
 title: "The Smiling Man"
-date: 2018-02-27T19:28:44-05:00
-tags: ["The City"]
+date: 2026-03-07T13:00:00-05:00
+tags: ["The City", "Black Spiral Dancer", "NPC"]
 draft: true
 ---
 An extra insane BSD with a very truncated muzzle and mouth that appears to be smiling. Each tooth is laced with veins of silver.

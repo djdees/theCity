@@ -2,37 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/citystories/breakingthrough/foreshadowing/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/foreshadowing/</loc>
     <lastmod>2017-09-18T13:32:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/strangethings/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/strangethings/</loc>
     <lastmod>2017-09-18T13:46:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/firstsigns/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/firstsigns/</loc>
     <lastmod>2017-09-18T13:34:30-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/heralding/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/heralding/</loc>
     <lastmod>2017-09-18T13:42:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/badmoonrising/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/badmoonrising/</loc>
     <lastmod>2017-09-18T13:41:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/seeking/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/seeking/</loc>
     <lastmod>2017-11-03T13:14:20-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yellowpages/shermerhighschool/</loc>
-    <lastmod>2026-03-07T14:11:05-05:00</lastmod>
+    <loc>http://localhost:1313/whitepages/dr_crispy/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homeless/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/npc/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/the-city/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/whitepages/</loc>
+    <lastmod>2026-03-08T11:15:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/whitepages/antonio_ricci/</loc>
+    <lastmod>2026-03-07T18:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/barrabi/</loc>
+    <lastmod>2026-03-07T18:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/yellowpages/shermerhighschool/</loc>
     <lastmod>2026-03-07T14:11:05-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/yellowpages/</loc>
     <lastmod>2026-03-07T14:11:05-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/black-spiral-dancer/</loc>
+    <lastmod>2026-03-07T13:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/whitepages/smiling_man/</loc>
+    <lastmod>2026-03-07T13:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/the-city-stirs-again/</loc>
+    <lastmod>2026-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/welcome-back/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/atlas/</loc>
@@ -50,38 +83,29 @@
     <loc>http://localhost:1313/citystories/</loc>
     <lastmod>2018-08-30T21:16:26-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2018-08-30T21:16:26-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/the-city/</loc>
+    <loc>http://localhost:1313/citystories/singles/</loc>
     <lastmod>2018-08-30T21:16:26-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/yellowpages/bakerstreet/</loc>
     <lastmod>2018-02-27T19:28:44-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whitepages/bakerstreet/</loc>
-    <lastmod>2018-02-27T19:28:44-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/whitepages/</loc>
-    <lastmod>2018-02-27T19:28:44-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/citystories/singles/blackcadillac/</loc>
     <lastmod>2018-02-15T17:16:26-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/gillians/arriving/</loc>
+    <loc>http://localhost:1313/citystories/singles/arriving/</loc>
     <lastmod>2018-02-01T10:01:37-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/wordsprophets/</loc>
-    <lastmod>2018-01-30T13:26:42-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/citystories/education/</loc>
+    <loc>http://localhost:1313/citystories/series/</loc>
     <lastmod>2018-01-30T13:36:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/education/ragabashguidetoumbra/</loc>
-    <lastmod>2018-01-30T13:15:43-05:00</lastmod>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/wordsprophets/</loc>
+    <lastmod>2018-01-30T13:26:42-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/gillians/</loc>
-    <lastmod>2017-10-07T21:32:42-05:00</lastmod>
+    <loc>http://localhost:1313/citystories/series/education/</loc>
+    <lastmod>2018-01-30T13:36:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/citystories/series/education/ragabashguidetoumbra/</loc>
+    <lastmod>2018-01-30T13:15:43-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/citystories/singles/hotday/</loc>
     <lastmod>2017-09-18T13:37:43-05:00</lastmod>
@@ -89,7 +113,7 @@
     <loc>http://localhost:1313/citystories/singles/storyteller01/</loc>
     <lastmod>2017-09-18T13:35:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/questing/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/questing/</loc>
     <lastmod>2017-09-18T13:26:42-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/yellowpages/dewdropinn/</loc>
@@ -113,7 +137,7 @@
     <loc>http://localhost:1313/yellowpages/blueboxsept/</loc>
     <lastmod>2018-02-27T20:02:21-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/breakingthrough/</loc>
+    <loc>http://localhost:1313/citystories/series/breakingthrough/</loc>
     <lastmod>2017-08-17T13:36:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/citystories/base_stories/</loc>
@@ -122,12 +146,11 @@
     <loc>http://localhost:1313/org_index/</loc>
     <lastmod>2017-08-17T13:36:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/citystories/singles/</loc>
-    <lastmod>2017-08-17T13:36:32-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/citystories/singles/chicagostyle/</loc>
     <lastmod>2016-08-18T13:37:43-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/citystories/file13/</loc>
   </url>
 </urlset>
