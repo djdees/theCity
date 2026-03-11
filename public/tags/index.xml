@@ -6,8 +6,57 @@
     <description>Recent content in Tags on The City</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 11:15:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 18:16:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judas</title>
+      <link>http://localhost:1313/tags/judas/</link>
+      <pubDate>Sun, 08 Mar 2026 18:16:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/judas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mage</title>
+      <link>http://localhost:1313/tags/mage/</link>
+      <pubDate>Sun, 08 Mar 2026 18:16:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/mage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paradox</title>
+      <link>http://localhost:1313/tags/paradox/</link>
+      <pubDate>Sun, 08 Mar 2026 18:16:00 -0600</pubDate>
+      <guid>http://localhost:1313/tags/paradox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orphan</title>
+      <link>http://localhost:1313/tags/orphan/</link>
+      <pubDate>Sun, 08 Mar 2026 18:46:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/orphan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC</title>
+      <link>http://localhost:1313/tags/pc/</link>
+      <pubDate>Sun, 08 Mar 2026 18:46:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/pc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sept of the Blue Box</title>
+      <link>http://localhost:1313/tags/sept-of-the-blue-box/</link>
+      <pubDate>Sun, 08 Mar 2026 18:46:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/sept-of-the-blue-box/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The City</title>
+      <link>http://localhost:1313/tags/the-city/</link>
+      <pubDate>Sun, 08 Mar 2026 18:46:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/the-city/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Homeless</title>
       <link>http://localhost:1313/tags/homeless/</link>
@@ -20,13 +69,6 @@
       <link>http://localhost:1313/tags/npc/</link>
       <pubDate>Sun, 08 Mar 2026 11:15:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/npc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The City</title>
-      <link>http://localhost:1313/tags/the-city/</link>
-      <pubDate>Sun, 08 Mar 2026 11:15:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/the-city/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +90,13 @@
       <link>http://localhost:1313/tags/locations/</link>
       <pubDate>Fri, 18 Aug 2017 10:25:27 -0500</pubDate>
       <guid>http://localhost:1313/tags/locations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drains</title>
+      <link>http://localhost:1313/tags/drains/</link>
+      <pubDate>Thu, 17 Aug 2017 14:18:50 -0500</pubDate>
+      <guid>http://localhost:1313/tags/drains/</guid>
       <description></description>
     </item>
   </channel>

@@ -3,6 +3,12 @@ languageCode: "en-us"
 title: "The City"
 theme: "city-noir"
 
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Sections
 contentDir: "content"
 publishDir: "public"

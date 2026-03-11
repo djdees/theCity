@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Locations on The City</title>
-    <link>http://localhost:1313/tags/locations/</link>
-    <description>Recent content in Locations on The City</description>
+    <title>Drains on The City</title>
+    <link>http://localhost:1313/tags/drains/</link>
+    <description>Recent content in Drains on The City</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 10:25:27 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/locations/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dew Drop Inn</title>
-      <link>http://localhost:1313/yellowpages/dewdropinn/</link>
-      <pubDate>Fri, 18 Aug 2017 10:25:27 -0500</pubDate>
-      <guid>http://localhost:1313/yellowpages/dewdropinn/</guid>
-      <description>&lt;p&gt;The Dew Drop Inn is a redneck looking place. Not very friendly to anybody but regulars or people vouched for by regulars. Like many places in The City, it&amp;rsquo;s a living stereotype. The worst stereotypes of deep south white trash hang out here. A reliable fixer works out of one the back booths.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 17 Aug 2017 14:18:50 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/drains/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Drains</title>
       <link>http://localhost:1313/atlas/thedrains/</link>
