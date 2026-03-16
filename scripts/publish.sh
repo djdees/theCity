@@ -4,10 +4,12 @@
 # Install as a post-commit hook by symlinking:
 #   ln -s ../../scripts/publish.sh .git/hooks/post-commit
 
+export PATH="/usr/local/bin:/usr/bin:/bin:$HOME/.local/bin:$PATH"
+
 # ── Configuration ────────────────────────────────────────────────────────────
 REMOTE_USER="fixer"
 REMOTE_HOST="scribe.home.arpa"
-REMOTE_PATH="/www/thecity/
+REMOTE_PATH="/www/thecity"
 SSH_PORT=22
 SSH_KEY=""                          # Optional: path to SSH key, e.g. ~/.ssh/id_rsa
 LOG_FILE="scripts/publish.log"
