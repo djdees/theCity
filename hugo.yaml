@@ -30,3 +30,6 @@ menus:
     - name: "The Atlas"
       url: "/atlas/"
       weight: 5
+
+## remove before deploying
+relativeURLs: true
