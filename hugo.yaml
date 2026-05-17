@@ -16,10 +16,10 @@ publishDir: "public"
 menus:
   main:
     - name: "White Pages"
-      url: "/whitePages/"
+      url: "/white-pages/"
       weight: 1
     - name: "Yellow Pages"
-      url: "/yellowPages/"
+      url: "/yellow-pages/"
       weight: 2
     - name: "City Confidential"
       url: "/cityStories/"

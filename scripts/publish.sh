@@ -9,7 +9,7 @@ export PATH="/usr/local/bin:/usr/bin:/bin:$HOME/.local/bin:$PATH"
 # ── Configuration ────────────────────────────────────────────────────────────
 REMOTE_USER="fixer"
 REMOTE_HOST="scribe.home.arpa"
-REMOTE_PATH="/www/thecity"
+REMOTE_PATH="/www/theCity"
 SSH_PORT=22
 SSH_KEY=""                          # Optional: path to SSH key, e.g. ~/.ssh/id_rsa
 LOG_FILE="scripts/publish.log"
@@ -57,6 +57,7 @@ log "Syncing to $REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH..."
 RSYNC_OPTS="-avz --delete -e \"ssh $SSH_OPTS\""
 
 if ! rsync -avz --delete \
+  --no-perms --no-times \
   -e "ssh $SSH_OPTS" \
   public/ \
   "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH" >> "$LOG_FILE" 2>&1; then
