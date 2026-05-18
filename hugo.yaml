@@ -22,7 +22,7 @@ menus:
       url: "/yellow-pages/"
       weight: 2
     - name: "City Confidential"
-      url: "/cityStories/"
+      url: "/city-stories/"
       weight: 3
     - name: "Ruminations"
       url: "/blog/"

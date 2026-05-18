@@ -4,6 +4,9 @@ date: 2026-03-08T18:16:00-06:00
 tags: ["Judas", "Paradox", "Mage"]
 description: "When you need to not be there."
 draft: false
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 "I'm not here."
