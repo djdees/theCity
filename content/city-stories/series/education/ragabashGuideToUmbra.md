@@ -6,6 +6,9 @@ lastmod: 2018-01-30T13:15:43-05:00
 description: "The Umbra according to a Ragabash."
 weight: 1
 draft: false
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 There was a moment of quiet. The scrapper team was off today, so the cranes and the big shredder at the far other end of the junkyard were quiet. Over in the shade made by crushed station wagon propped across two Caravans. Bubba was quietly instructing a young visiting garou in Japanese tea ceremony. Judas had thought his mind boggled the first time he heard Bubba perform as the tale singer. Bubba performing the tea ceremony in chrinos stretched it even further. His mind switched between that image and the image of Bubba, engine of destruction. He wondered how Bubba held the frail tea cups without shattering them. 

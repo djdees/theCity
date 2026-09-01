@@ -1,11 +1,14 @@
 ---
 title: "Seeking"
 date: 2017-11-03T13:14:20-05:00
-tags: ["The City"]
+tags: ["The City", "Breaking Through"]
 lastmod: 2017-11-03T13:14:20-05:00
-description: "Chapter the Seventh"
-weight: 7
+description: ""
+weight: 70
 draft: true
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 {{< center >}}Searching for a Martyr {{< /center >}}

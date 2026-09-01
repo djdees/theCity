@@ -1,10 +1,14 @@
 ---
 title: "Words of the Prophets"
 date: 2018-01-30T14:26:42-05:00
-tags: ["The City"]
+tags: ["The City", "Breaking Through"]
 lastmod: 2018-01-30T13:26:42-05:00
-description: "A late night rondevous for Judas"
+description: ""
 draft: false
+weight: 80
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 The fog was thick, even for the City's notoriously thick fog. Judas moved slowly through it, feeling as if he was almost swimming, rather than walking. The dark moonless night, was quiet and the fog further muffled sounds. Slight halos of light at regular intervals marked the gas lamps, although they could not be seen through the water droplets that danced in the dark, and the cobblestones beneath his feet were slippery. .

@@ -5,6 +5,9 @@ tags: ["The City"]
 lastmod: 2016-08-18T13:37:43-05:00
 description: "1920s style."
 draft: false
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 Things had started out badly. A quick run through the moon paths had

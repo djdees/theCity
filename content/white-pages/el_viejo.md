@@ -1,15 +1,15 @@
 ---
-title: "Shiny Bits"
-date: 2026-05-17T17:31:56-05:00
+title: "El_viejo"
+date: 2026-08-30T15:22:11-05:00
 draft: true
 tags: ["NPC"] # Keeping macro categories like NPC; dropping 'The City'
 
 # Unique Identifier for AI linking & URLs (e.g., "john-maldito", "john-the-cop")
-slug: "shiny_bits"
+slug: "el_viejo"
 
 # Structural Metadata
 type: "white-pages"
-wod_type: ""      # Mage, Werewolf, Human, Other
+wod_type: "Other"      # Mage, Werewolf, Human, Other
 # Lifecycle status for each era: Active, Inactive, Rumored, Unknown
 era_focus:
   prequel:   ""   # The focus of the prequel story
@@ -20,7 +20,7 @@ era_focus:
 affiliations:
   - faction: ""
     status: "Active" # Active, Defected, Deceased, Unknown
-  - faction: "Nephandi"
+  - faction: ""
     status: "Hidden"
 
 # The Metadata Array for AI relationship mapping
@@ -31,27 +31,14 @@ connections:
     notes: ""       # e.g., "Did design work for the gateway."
 ---
 
-<section id="prequel-intel">
-  <h3>The Prequel Era (The Early Days)</h3>
-  {{< storyteller >}}
-  This is where you write the snippets focused entirely on his early life and how he earned his name.
-  {{< /storyteller >}}
-</section>
+El Viejo is the oldest, meanest, and biggest alligator that roams the sewer systems. While he's never been known to attack a member of the maintenance crews, he's often found watching them work. 
 
-<section id="intime-intel" style="display: none;">
-  <h3>In-Time Era (1990s Campaign)</h3>
-  {{< storyteller >}}
-  What he was up to during the active sandbox campaign before things wrapped in '99.
-  {{< /storyteller >}}
-</section>
+Those not on a crew or without sufficient lighting, on the other hand. 
 
-<section id="aftermath-intel" style="display: none;">
-  <h3>The Aftermath (Post-1999)</h3>
-  {{< storyteller >}}
-  The current explorations, continuations, or rumors of where his ghost or legacy lingers.
-  {{< /storyteller >}}
-</section>
+Well.
+
+Stories abound. Grown in retelling, perhaps. Perhaps not.
 
 {{< inspiration >}}
-- [Link Name](URL)
+Countless tellings of urban legends.
 {{< /inspiration >}}

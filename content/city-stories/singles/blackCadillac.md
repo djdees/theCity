@@ -5,6 +5,9 @@ tags: ["The City"]
 lastmod: 2018-02-15T17:16:26-06:00
 description: "A boy and his car."
 draft: true
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 

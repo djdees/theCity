@@ -1,5 +1,5 @@
 ---
-title: "Dr_crispy"
+title: "Dr Crispy"
 date: 2026-05-17T17:33:55-05:00
 draft: true
 tags: ["NPC"] # Keeping macro categories like NPC; dropping 'The City'

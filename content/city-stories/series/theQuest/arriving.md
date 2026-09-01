@@ -5,6 +5,10 @@ tags: ["The City"]
 lastmod: 2018-02-01T10:01:37-06:00
 description: "Gillian arrives in the City"
 draft: false
+weight: 10
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 ​
 A chill wind blew down the street, shifting and stirring the fallen autumn leaves. Rain hadn't fallen yet, but the swollen, sullen clouds promised that it would. The street was quiet, some asleep, but most gone. Old houses in long rows, all needing something. Lawn care, painting, general repairs were all needed in varying degrees. The size of the houses told of past wealth. Current wealth was conspicuous in its absence.

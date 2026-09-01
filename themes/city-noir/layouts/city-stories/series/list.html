@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="list-page">
+    <h1 class="page-title">{{ .Title }}</h1>
+
+    <div class="page-content">
+        <div class="page-body">{{ .Content }}</div>
+    </div>
+
+    <ul class="entry-list">
+        {{ if eq .CurrentSection.RelPermalink "/city-stories/series/" }}
+        <!-- You are at the top level, sort by Title -->
+        {{ range .Pages.ByTitle }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }} {{ else }}
+        <!-- You are inside a sub-folder (an arc), sort by Weight -->
+        {{ range .Pages.ByWeight }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }} {{ end }}
+    </ul>
+</section>
+{{ end }}

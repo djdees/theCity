@@ -5,6 +5,9 @@ tags: ["The City"]
 lastmod: 2017-09-18T13:37:43-05:00
 description: "One summer day in The City"
 draft: false
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 Most stories, Judas thought, began with "It was a dark and stormy
 night." This thought crossed his mind as he stood in the hot sun,

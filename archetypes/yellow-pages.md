@@ -1,10 +1,8 @@
 ---
-title: "Sept of the Blue Box"
-description: "A large Bone Gnawer caern in a semi-abandoned junkyard."
-date: 2017-08-17T13:40:13-05:00
-lastmod: 2018-02-27T20:02:21-05:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: false
-citys: ["Location", "Garou", "Caern"]
+tags: ["Location"]
 
 # Website Architecture
 type: "yellow-pages"
@@ -15,10 +13,10 @@ slug: "{{ .Name }}"
 # - Mortal: bar, nightclub, school, corporation, police-station
 # - Garou: caern, pack-territory, sept-holding
 # - Mage: chantry, cabal-sanctum, node
-entity_type: "caern" 
+entity_type: "business" 
 
 # Super-type taxonomy to make AI filtering easy (Mortal, Garou, Mage, Vampire, Mixed)
-supernatural_type: "Garou"
+supernatural_type: "Mortal"
 
 # Faction control (Who implicitly owns or runs the joint?)
 controlling_faction: "" 
@@ -35,5 +33,3 @@ connections:
     era: ""
     notes: ""
 ---
-
-The *Sept of the Blue Box* was one of the centers of action for *The City* campaign.

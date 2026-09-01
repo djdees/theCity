@@ -5,6 +5,9 @@ tags: ["The City"]
 lastmod: 2018-08-30T21:16:26-06:00
 description: "A night on the town."
 draft: false
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 It had not been a good night. The three to eleven shift was never predictable. The horrors usually seen by the eleven to seven shift weren't usually out yet. The mundane things of the day shift, seven to three, tapered off by halfway through the shift. As they diminished, the uglier things began to show up. 

@@ -5,6 +5,9 @@ tags: ["The City"]
 lastmod: 2017-09-18T13:35:54-05:00
 description: "A traveling storyteller visits the Sept of the Blue Box."
 draft: false
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 Like many things in his life, it started with a phone call. Like many
 things in his life, it ended in chaos and commotion. That the path

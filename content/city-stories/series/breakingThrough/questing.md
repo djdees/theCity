@@ -1,11 +1,14 @@
 ---
-title: "UnnamedPart"
+title: "Second Signs"
 date: 2017-09-18T13:26:42-05:00
-tags: ["The City"]
+tags: ["The City", "Breaking Through"]
 lastmod: 2017-09-18T13:26:42-05:00
-description: "Chapter the Fourth"
-weight: 4
+description: ""
+weight: 60
 draft: true
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 Alas, alas for Babylon!

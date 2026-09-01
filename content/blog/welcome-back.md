@@ -1,7 +1,7 @@
 ---
 title: "Welcome Back"
 date: 2026-03-07
-draft: true
+draft: false
 ---
 
 This is a place that has lived in my mind for years, rent free. It's ebbed and flowed, but has always been there. It's returned at odd moments, late at night or when my mind wanders. 

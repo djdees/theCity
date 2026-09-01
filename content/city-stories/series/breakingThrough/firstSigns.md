@@ -1,11 +1,14 @@
 ---
 title: "The First Signs"
 date: 2017-09-18T13:34:30-05:00
-tags: ["The City"]
+tags: ["The City", "Breaking Through"]
 lastmod: 2017-09-18T13:34:30-05:00
-description: "Chapter the Third"
-weight: 3
+description: ""
 draft: false
+weight: 30
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 It took some time for the words to sink in. Something about those words resonated in his mind.
 While he focused on the children and the art they were making, part of

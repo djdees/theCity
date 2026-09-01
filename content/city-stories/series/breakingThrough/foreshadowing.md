@@ -1,11 +1,14 @@
 ---
 title: "Foreshadowing the First Signs"
 date: 2017-09-18T13:32:51-05:00
-tags: ["The City"]
+tags: ["The City", "Breaking Through"]
 lastmod: 2017-09-18T13:32:51-05:00
-description: "Chapter the First"
-weight: 1
+description: ""
 draft: false
+weight: 10
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 In the quiet of a sunny afternoon, the trunk of a very old, black
 Cadillac slammed shut, echoing through the alleyway it was parked in.

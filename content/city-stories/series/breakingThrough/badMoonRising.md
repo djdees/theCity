@@ -1,11 +1,14 @@
 ---
-title: "BadMoonRising"
+title: "Bad Moon Rising"
 date: 2017-09-18T13:41:14-05:00
-tags: ["The City"]
+tags: ["The City", "Breaking Through"]
 lastmod: 2017-09-18T13:41:14-05:00
-description: "Chapter the Sixth"
-weight: 6
+description: ""
+weight: 50
 draft: true
+
+# The core anchor for AI timeline tracking
+era_setting: "in-time" # prequel, in-time, aftermath
 ---
 
 "I, have clearly been spending too much time with the Gnawers." John

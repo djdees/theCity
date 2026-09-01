@@ -5,6 +5,36 @@ date: 2017-08-18T10:23:44-05:00
 lastmod: 2018-03-01T19:36:44-05:00
 tags: ["The City"]
 draft: false
+
+# Website Architecture
+type: "yellow-pages"
+slug: "{{ .Name }}"
+
+# Taxonomy: business, landmark, institution, lair, etc.
+# What kind of operation is this? 
+# Examples: 
+# - Mortal: bar, nightclub, school, corporation, police-station
+# - Garou: caern, pack-territory, sept-holding
+# - Mage: chantry, cabal-sanctum, node
+entity_type: "charity" 
+
+# Super-type taxonomy to make AI filtering easy (Mortal, Garou, Mage, Vampire, Mixed)
+supernatural_type: "Mage"
+
+# Faction control (Who implicitly owns or runs the joint?)
+controlling_faction: "" 
+
+# Lifecycle status for each era: Active, Inactive, Destroyed, Unknown
+era_focus:
+  prequel: ""
+  in-time: ""
+  aftermath: ""
+
+connections:
+  - target: ""
+    type: ""
+    era: ""
+    notes: ""
 ---
 
 Funded by distant and remote patrons, the Mission of the Helping Hand does it's best to live up to it's name. Funding is fairly generous and it serves many in the community. The mages associated with the Sept of the Blue Box are active there. Mission services include art and education classes for homeless children, meals for any homeless, and connections to a variety of social services. 

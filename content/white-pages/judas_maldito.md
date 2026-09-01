@@ -1,5 +1,5 @@
 ---
-title: "Judas_maldito"
+title: "Judas Maldito"
 date: 2026-05-17T17:33:20-05:00
 draft: true
 tags: ["NPC"] # Keeping macro categories like NPC; dropping 'The City'
