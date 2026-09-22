@@ -1,6 +1,11 @@
 {{ define "main" }}
 <article class="page-content">
   <h1 class="page-title">{{ .Title }}</h1>
+
+  {{ with .Params.tagline }}
+          <div class="story-tagline">{{ . }}</div>
+      {{ end }}
+
   <div class="page-body">
     {{ .Content }}
   </div>

@@ -231,6 +231,17 @@ header {
     opacity: 0;
     animation: fadeUp 0.9s 0.6s forwards;
 }
+.story-tagline {
+    font-family: "Cormorant Garamond", serif;
+    font-style: italic;
+    font-size: clamp(0.9rem, 2.5vw, 1.25rem);
+    color: var(--aged);
+    letter-spacing: 0.05em;
+    margin-top: 0.5rem;
+    opacity: 0;
+    animation: fadeUp 0.9s 0.6s forwards;
+    margin-bottom: 3rem;
+}
 
 @keyframes fadeUp {
     from {
