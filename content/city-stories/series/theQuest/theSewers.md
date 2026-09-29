@@ -1,11 +1,11 @@
 ---
-title: "TheSewers"
+title: "The Sewers"
 date: 2026-08-30T13:51:30-05:00
 draft: true
 tags: ["The City"]
 description: ""
 weight: 30
-
+tagline: "People say the sewers only carry rain and waste. But sometimes, late at night, something down there reminds you the stories about the alligators were never meant to be jokes."
 # The core anchor for AI timeline tracking
 era_setting: "in-time" # prequel, in-time, aftermath
 ---
@@ -89,14 +89,36 @@ Manuel's light flashed back and forth, for a moment, he could see the long tail 
 
 "What the ..?" he said.
 
-A moment later, the scream started.
+A moment later, the screams started.
 {{< /break >}}
+
+{{< break title="Down the Drain" >}}
+
+**Seed**
+
+Silence, broken only by dripping.
+
+From a pipe above a misshapen figure drops to the narrow channel in the bottom
+
+
+Relizes no air, no water, no rats.
+
+Bad smell (even for deep sewer) 
+
+Opening encounter with a disposable NPC and the FatBerg.
+
+{{< /break >}}
+
+**Seed**
 
 Next section, a sewer crew is attacked by something. Gillian is a 1st responder. Papers say "alligator attack", she'll know different.
 
 
 ---------------
-Reference conversation: https://chatgpt.com/c/6a91d9df-3c88-83ea-ad93-a60896d435c8
+Reference conversations: 
+- https://chatgpt.com/c/6a91d9df-3c88-83ea-ad93-a60896d435c8
+- https://chatgpt.com/c/6a96404d-4384-83ea-844d-cdf35f6a3a84
+
 
 Notes:
 In conjunction with the fatberg - in the working section a bright yellow inner tub comes floating down the sewer stream in a large tunnel.

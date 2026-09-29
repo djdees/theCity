@@ -27,7 +27,7 @@ With calmness, came realization. The dark was because his eyes were closed. The 
 
 Slowly he opened his eyes and quickly re-closed them. The bright white was blinding. Slowly he sat up, he didn't sense danger, but kept his guard up, listening carefully to what was going on around him. The quiet remained, not pressing, but omnipresent. He slowly reopened his eyes, allowing them to adjust.
 
-Looking around, it wasn't as bright as he thought. There were fluorescent lights, the walls reflecting a brilliant sterile white. The room was small, a white door with a silver knob was in front of him.
+Looking around, it wasn't as bright as he thought. There were fluorescent lights, the walls reflecting a brilliant sterile white, and a dressing room mirror on the wall. The room was small, a white door with a silver knob was in front of him.
 
 Moving carefully, feeling every bruise and ache, he sat up. Too much practice had him checking himself for injuries. One slash through his jacket sleeve and several bruises were quickly found. A deep breath made his ribs ache.
 
@@ -85,33 +85,46 @@ He set off in another direction, trying again. The results were the same, only h
 
 "How long have I been here?" he wondered quietly. Thinking about it, he hadn't been hungry or thirsty. He'd been walking for a while, but he wasn't tired, rather he wasn't sleepy. His feet did hurt a bit though and bathroom breaks hadn't been a thing, which was good because no door yet opened had been for a bathroom.
 
+He paused, then opened a door to yet another empty white room. Stopping in the doorway, he sat down to rest. His body wasn't really tired, but his mind needed a moment to process and recover as best it could. Slowly, he started going through his pockets. Sitting, his pants pockets were out of reach, but his jacket pockets weren't. He slowly took things out of his pocket and started lining them up. After the third object, he stopped, thought a moment and returned everything back to the pocket it came from.
 
-## Idea zone
+"I'm going to have to be careful. If I set something down and look away, I may not get it back. This place already owes me a quarter." he mused out loud. 
 
-- Oddly enough, there are no planned hallucinations or monsters. Temporal uncertainty is next, after all he's not gotten hungry, the bathroom hasn't been needed (or found). He's just started talking to himself. 
-- No clocks seen yet. he may start 100 bottles of beer on the wall after a while, just to mark time. - chatcpt stash
-```text
-And honestly, your planned progression sounds exactly right for this story.
-No monsters is the correct instinct.
-The halls are more unsettling as:
-  a metaphysical correction
-a reality wound
-a place enforcing isolation
-rather than a haunted house.
-The moment you add:
-  claws in the dark
- shadow figures
-jump scares
-the reader’s brain shifts categories:
-“survival horror”
-Right now this is sitting in a much more interesting space:
-“ontological horror”
-The fear is:
-  loss of persistence
-loss of orientation
-loss of acknowledged existence
-That’s stronger and much more Mage.
-```
+"Let's see what I've got, versus what I think I've got." he continued.
+
+He continued on, slowly looking at what he had. After a few minutes, he pulled out a battered Walkman with a radio builtin. 
+
+He smiled, "Well, at least I can see who's around. Wonder if somebody's watching the lab rat."
+
+He reached down and turned it on. Silence, not even static. He frowned and looked down - no red power light. He started digging through pockets again and eventually his hand came out with four AA batteries that he put into the Walkman. Absently, he set the dead batteries down. He paused what he was doing to just listen for a few moments. Still the same silence, broken by ventilation noise and the humming of florescent lights.
+
+Turning on the player, he confirmed the power and put the headphones on. Slowly, focusing, he began to scan the dial, listening intently for anything other than static. Nothing but static, up and down the dial. He could never hear himself and he could usually tell when it wasn't work. This didn't feel like that, just empty. He could feel to a degree he never had before, the space around him. It was big, bigger than he had imagined so far. Most importantly, it was silent. That didn't mean that it was empty, just that there wasn't anybody he could listen in on, at least at the moment.
+
+He sat for a few more minutes, listening to the silence and thinking. This meant something, he just wasn't sure what. Standing up again, he got ready to look around some more. Everything had a way out, he just had to find it. He looked down to clean up the mess he'd left, not wanting to leave much, if any trace of himself behind. Looking around, he groaned. The dead batteries were nowhere to be found. Nothing on his floor but the dark grey of his boots and pants. 
+
+He started down the hall, trudging past familiar looking doors. Turning the corner, he stopped, turned around, and looked back the way he had come. Predictably, at this point, the door he'd left open was closed and, once again, no sign he'd passed through the hallway. 
+
+Thinking for a moment, he dug through his pockets again, finding both a pencil and some chalk. He took a piece of chalk and carefully marked an arrow on the corner, pointing to the way he'd gone. Walking a little more quickly, he headed to the end of the hallway, turned around, then walked back. No mark.
+
+No sign he'd been there. Like he didn't exist.
+
+He walked for a while longer and realized he was humming. It took a moment to realized the song. He stopped again, listening. Still just the ventilation noise and the hum of bad fluorescent lights. He thought for a moment, looked at his broken watch again, put a chalk mark on his grey coat and quietly started signing.
+
+"One hundred bottles of beer on the wall, one hundred bottles of beer..."
+
+After counting down to one bottle of beer, he paused, made another mark and kept going, starting the song over. He'd been alternating turns to keep from just going in circles, now he could - sort of - keep track of time.
+
+In an instant, he stumbled. Nothing but his own feet to trip on and he still managed to trip himself. Taking a deep breath, he opened a door and sat in the doorway again. That he could hide if he needed to was comforting, but he still wanted to keep an eye and ear out, just in case. He sat for a few more minutes, listening to slight background noises. His throat was a bit dry from singing, but he still hadn't found any water.
+
+"Good thing I'm not actually thirsty." he said quietly to himself, "I wonder how many times I sang that damn song?"
+
+Looking down to count the chalk marks, he realized he could barely see them on the light grey of his coat. Rummaging through his pockets, he pulled various small objects out of his pocket, smiling when he found the walkman he'd been using for one of his other tricks. Turning it on, he found it dead. He checked his pockets again, but couldn't find the spare batteries.
+
+"Fuck." he suddenly whispered, staring down the hall, "...Twice.  I've done this before, but almost didn't remember."
+
+He closed his eyes and walked his mind back through his day. A mostly normal day, work on a couple projects, two client calls, seeing what the Pigeon was seeing. A call from the junkyard, could he help with a project. Making a light dinner, getting geared up in his mission clothes and loading his pockets. His black clothes and black Doc Martens.
+
+"Black, not grey." he mumbled, "I'm sure I dressed in black. The mirror showed me in black when I woke up here, didn't it?"
+
 
 
 
